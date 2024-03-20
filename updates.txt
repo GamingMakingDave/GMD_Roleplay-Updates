@@ -1,2 +1,2 @@
-- Loadingscreen wurde abgeschlossen
-- Set default Loadingscreen Color
+Loadingscreen wurde abgeschlossen
+Set default Loadingscreen Color
