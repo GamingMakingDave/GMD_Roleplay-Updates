@@ -1,3 +1,6 @@
 Loadingscreen wurde abgeschlossen
 Set default Loadingscreen Color
 Es wurde eine der besten Einreisen erstellt mit außergewöhlichen Custom Cutscenes
+GMD_Scripts hat viele neue scripts
+Dies ist ein ganz neuer Loadingscreen
+Der Loadingscreen kann vom spieler auf sich und seine 
